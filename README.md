@@ -3,4 +3,4 @@
 
 <img src="https://i.ibb.co/cQbZHD2/Screenshot-20191024-112258-Dashboard-UI-1.jpg" width="250">
 
-sc : https://www.youtube.com/watch?v=tOaQzkRE-T0
+sc : https://www.youtube.com/watch?v=LOcD1evBcSA&t=667s
