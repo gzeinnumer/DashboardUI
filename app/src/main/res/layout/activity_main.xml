@@ -54,7 +54,7 @@
             android:layout_gravity="center"
             android:layout_marginTop="@dimen/mato_16"
             android:nestedScrollingEnabled="false"
-            android:padding="@dimen/pad_4dp"
+            android:padding="@dimen/pad_2dp"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintRight_toRightOf="parent"
             app:layout_constraintTop_toBottomOf="@id/img" />
